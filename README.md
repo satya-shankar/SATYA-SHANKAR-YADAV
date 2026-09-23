@@ -46,7 +46,8 @@ Data Analyst &amp; ML Enthusiast | Python • SQL • Tableau • EDA • Scikit
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satya-shankar & show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satya-shankar & show_icons=true&theme=tokyonight&hide_border=true" alt="[![Satya's GitHub stats](https://vercel.app)](https://github.com)
+" />
 </div>
 
 ---
